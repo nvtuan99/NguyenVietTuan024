@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\NguyenVietTuan024\\NguyenVietTuan024.csproj": {}
+    "C:\\Users\\Administrator\\Desktop\\Study\\Exercise\\.NET2\\NguyenVietTuan024\\NguyenVietTuan024.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\NguyenVietTuan024\\NguyenVietTuan024.csproj": {
+    "C:\\Users\\Administrator\\Desktop\\Study\\Exercise\\.NET2\\NguyenVietTuan024\\NguyenVietTuan024.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\NguyenVietTuan024\\NguyenVietTuan024.csproj",
+        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Study\\Exercise\\.NET2\\NguyenVietTuan024\\NguyenVietTuan024.csproj",
         "projectName": "NguyenVietTuan024",
-        "projectPath": "C:\\Users\\Administrator\\NguyenVietTuan024\\NguyenVietTuan024.csproj",
+        "projectPath": "C:\\Users\\Administrator\\Desktop\\Study\\Exercise\\.NET2\\NguyenVietTuan024\\NguyenVietTuan024.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\NguyenVietTuan024\\obj\\",
+        "outputPath": "C:\\Users\\Administrator\\Desktop\\Study\\Exercise\\.NET2\\NguyenVietTuan024\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
